@@ -1,0 +1,8 @@
+# chiarorosa.github.io
+# Project sites live under their own paths, for example /claude-codex-taskbar/.
+User-agent: *
+Content-Signal: search=yes, ai-input=yes
+Allow: /
+
+Sitemap: https://chiarorosa.github.io/sitemap.xml
+Sitemap: https://chiarorosa.github.io/claude-codex-taskbar/sitemap.xml

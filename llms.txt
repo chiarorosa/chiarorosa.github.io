@@ -1,0 +1,9 @@
+# chiarorosa.github.io
+
+> Open-source projects by Pablo Chiaro Rosa. The main one is CCT (claude-codex-taskbar), a free Windows 11 / 10 taskbar widget that shows which Claude Code / Codex account you are on, how much of its quota is left, and switches Claude Code accounts in three clicks.
+
+## Projects
+
+- [CCT: Claude Code & Codex usage and account switcher for Windows](https://chiarorosa.github.io/claude-codex-taskbar/): website, install and guides
+- [CCT llms.txt](https://chiarorosa.github.io/claude-codex-taskbar/llms.txt): detailed facts and page index for CCT
+- [CCT source on GitHub](https://github.com/chiarorosa/claude-codex-taskbar): MIT-licensed Rust source code and releases
